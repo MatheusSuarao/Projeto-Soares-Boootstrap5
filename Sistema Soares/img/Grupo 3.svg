@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="565.686" height="611.33" viewBox="0 0 565.686 611.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6e695;
+      }
+
+      .cls-2 {
+        fill: #707070;
+      }
+    </style>
+  </defs>
+  <g id="Grupo_3" data-name="Grupo 3" transform="translate(-86.157 -667.157)">
+    <ellipse id="Elipse_6" data-name="Elipse 6" class="cls-1" cx="92.485" cy="94.13" rx="92.485" ry="94.13" transform="translate(237.043 893.394) rotate(-45)"/>
+    <path id="Subtração_1" data-name="Subtração 1" class="cls-2" d="M200,400H172.722A75.052,75.052,0,0,0,75,307.629V275a75,75,0,1,0,0-150V20A20,20,0,0,1,95,0H455a20,20,0,0,1,20,20V380a20,20,0,0,1-20,20H350a75,75,0,0,0-150,0ZM313.891,46.609c-62.033,0-112.5,51.364-112.5,114.5s50.467,114.5,112.5,114.5,112.5-51.364,112.5-114.5S375.924,46.609,313.891,46.609Z" transform="translate(33.124 1003.033) rotate(-45)"/>
+    <circle id="Elipse_7" data-name="Elipse 7" class="cls-1" cx="58.832" cy="58.832" r="58.832" transform="translate(426.221 1090.287) rotate(-45)"/>
+    <circle id="Elipse_9" data-name="Elipse 9" class="cls-1" cx="58.832" cy="58.832" r="58.832" transform="translate(289.221 1195.287) rotate(-45)"/>
+    <circle id="Elipse_8" data-name="Elipse 8" class="cls-1" cx="58.832" cy="58.832" r="58.832" transform="translate(147.221 1090.287) rotate(-45)"/>
+  </g>
+</svg>
